@@ -16,7 +16,7 @@ Hi, I'm Artur, a passionate developer that loves to code <br />
 
 ##### Languages
 
-![](https://img.shields.io/badge/nodejs-339933?logo=node.js&logoColor=fff&style=for-the-badge)    ![](https://img.shields.io/badge/typescript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)   ![](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=fff&style=for-the-badge)   ![](https://img.shields.io/badge/rust-d73824?logo=rust&logoColor=fff&style=for-the-badge)
+![](https://img.shields.io/badge/nodejs-339933?logo=node.js&logoColor=fff&style=for-the-badge)    ![](https://img.shields.io/badge/typescript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)   ![](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=fff&style=for-the-badge)   ![](https://img.shields.io/badge/rust-d73824?logo=rust&logoColor=fff&style=for-the-badge)   ![](https://img.shields.io/badge/c_sharp-239128?logo=csharp&logoColor=fff&style=for-the-badge)
 
 ##### Database
 
