@@ -3,12 +3,13 @@
 ## About me
 
 Hi, I'm Artur, a passionate developer that loves to code <br /> 
-💻 My position is full-stack web developer and software engineer 
-&nbsp;📍 I'm based in Italy 
-✨ And I started programming in 2016 as work and hobby 
-📚 I'm currently learning Rust
-🎯 Goals: create software that help people, open my own blog, improve low level programming
+💻 My position is full-stack web developer and software engineer <br />
+&nbsp;📍 I'm based in Italy <br />
+✨ And I started programming in 2016 as work and hobby <br />
+📚 I'm currently learning Rust <br />
+🎯 Goals: create software that help people, open my own blog, improve low level programming <br />
 🎲 Fun fact: Harder is the project the better I like it, because there is room for improvement. I always work my best to obtain highest performance possible
+
 ###
 
 ## Technologies
