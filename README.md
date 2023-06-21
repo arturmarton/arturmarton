@@ -28,7 +28,7 @@ Hi, I'm Artur, a passionate developer that loves coding <br />
 
 ##### WebApp
 
-![](https://img.shields.io/badge/react-61DAFB?logo=react&logoColor=fff&style=for-the-badge)   ![](https://img.shields.io/badge/nextjs-000000?logo=next.js&logoColor=fff&style=for-the-badge)    ![](https://img.shields.io/badge/sveltekit-FF3E00?logo=svelte&logoColor=fff&style=for-the-badge)    ![](https://img.shields.io/badge/astro-FF5D01?logo=astro&logoColor=fff&style=for-the-badge)   ![](https://img.shields.io/badge/flask-000000?logo=flask&logoColor=fff&style=for-the-badge)
+![](https://img.shields.io/badge/react-61DAFB?logo=react&logoColor=fff&style=for-the-badge)   ![](https://img.shields.io/badge/nextjs-000000?logo=next.js&logoColor=fff&style=for-the-badge)    ![](https://img.shields.io/badge/sveltekit-FF3E00?logo=svelte&logoColor=fff&style=for-the-badge)    ![](https://img.shields.io/badge/astro-FF5D01?logo=astro&logoColor=fff&style=for-the-badge)   ![](https://img.shields.io/badge/flask-000000?logo=flask&logoColor=fff&style=for-the-badge) ![](https://img.shields.io/badge/astro-FF5D01?logo=astro&logoColor=fff&style=for-the-badge) ![](https://img.shields.io/badge/qwik-AC7EF4?logo=qwik&logoColor=fff&style=for-the-badge)
 
 ##### UI
 ![](https://img.shields.io/badge/materialui-007FFF?logo=mui&logoColor=fff&style=for-the-badge)    ![](https://img.shields.io/badge/chakraui-319795?logo=chakraui&logoColor=fff&style=for-the-badge)   ![](https://img.shields.io/badge/mantineui-339af0?logo=matomo&logoColor=fff&style=for-the-badge)    ![](https://img.shields.io/badge/tailwindcss-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
