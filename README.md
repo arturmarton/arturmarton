@@ -21,7 +21,8 @@ Learning: ![](https://img.shields.io/badge/rust-d73824?logo=rust&logoColor=fff&s
 
 ##### Database
 
-![](https://img.shields.io/badge/mysql-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)  ![](https://img.shields.io/badge/postgres-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)   ![](https://img.shields.io/badge/mongodb-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)   ![](https://img.shields.io/badge/redis-DC382D?logo=redis&logoColor=fff&style=for-the-badge)
+![](https://img.shields.io/badge/mysql-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)  ![](https://img.shields.io/badge/postgres-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)   ![](https://img.shields.io/badge/redis-DC382D?logo=redis&logoColor=fff&style=for-the-badge)
+Learning: ![](https://img.shields.io/badge/mongodb-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)
 
 ##### Backend
 
