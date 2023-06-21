@@ -16,7 +16,7 @@ Hi, I'm Artur, a passionate developer that loves coding <br />
 
 ##### Languages
 
-![](https://img.shields.io/badge/nodejs-339933?logo=node.js&logoColor=fff&style=for-the-badge)    ![](https://img.shields.io/badge/typescript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)   ![](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=fff&style=for-the-badge)   ![](https://img.shields.io/badge/rust-d73824?logo=rust&logoColor=fff&style=for-the-badge)   ![](https://img.shields.io/badge/c_sharp-239128?logo=csharp&logoColor=fff&style=for-the-badge)
+![](https://img.shields.io/badge/nodejs-339933?logo=node.js&logoColor=fff&style=for-the-badge)    ![](https://img.shields.io/badge/typescript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)   ![](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=fff&style=for-the-badge)   ![](https://img.shields.io/badge/rust-d73824?logo=rust&logoColor=fff&style=for-the-badge)
 
 ##### Database
 
@@ -31,7 +31,7 @@ Hi, I'm Artur, a passionate developer that loves coding <br />
 ![](https://img.shields.io/badge/react-61DAFB?logo=react&logoColor=fff&style=for-the-badge)   ![](https://img.shields.io/badge/nextjs-000000?logo=next.js&logoColor=fff&style=for-the-badge)    ![](https://img.shields.io/badge/sveltekit-FF3E00?logo=svelte&logoColor=fff&style=for-the-badge)    ![](https://img.shields.io/badge/astro-FF5D01?logo=astro&logoColor=fff&style=for-the-badge)   ![](https://img.shields.io/badge/flask-000000?logo=flask&logoColor=fff&style=for-the-badge) ![](https://img.shields.io/badge/astro-FF5D01?logo=astro&logoColor=fff&style=for-the-badge) ![](https://img.shields.io/badge/qwik-AC7EF4?logo=qwik&logoColor=fff&style=for-the-badge)
 
 ##### UI
-![](https://img.shields.io/badge/materialui-007FFF?logo=mui&logoColor=fff&style=for-the-badge)    ![](https://img.shields.io/badge/chakraui-319795?logo=chakraui&logoColor=fff&style=for-the-badge)   ![](https://img.shields.io/badge/mantineui-339af0?logo=matomo&logoColor=fff&style=for-the-badge)    ![](https://img.shields.io/badge/tailwindcss-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
+![](https://img.shields.io/badge/tailwindcss-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
 
 ##### Desktop App
 
