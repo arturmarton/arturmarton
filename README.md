@@ -1,18 +1,20 @@
-# Welcome 👋
+# 👋 Hello, World! I'm Artur 🚀
 
-## About me
+👨‍💻 Full-Stack Developer | Software Engineer | AI Enthusiast
 
-Hi, I'm Artur, a passionate developer that loves coding <br /> 
-💻 My position is full-stack web developer and software engineer <br />
-&nbsp;📍 I'm based in Italy <br />
-✨ And I started programming in 2016 as work and hobby <br />
-📚 I'm currently learning Rust and Artificial Intelligence<br />
-🎯 Goals: create software that help people, open my own blog, improve low level programming, contribute in AI world <br />
-🎲 Fun fact: Harder is the project the better I like it, because there is room for improvement. I always work my best to obtain highest performance possible
+💼 Currently crafting digital experiences at Enown
+
+🌐 Passionate about building web applications that help people and solving complex problems with elegant and fast code.
+
+🌱 Always learning and exploring new horizons: Currently learning Rust, AI and Qwik.
+
+📫 Let's connect and collaborate on exciting projects! 👇
+
+[Linkedin](https://www.linkedin.com/in/artur-marton-mihut-1414731b0)
 
 ###
 
-## Technologies
+## 🛠️ Tech Stack
 
 ##### Languages
 
