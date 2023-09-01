@@ -2,6 +2,8 @@
 
 👨‍💻 Full-Stack Developer | Software Engineer | AI Enthusiast
 
+📍 Based in Italy
+
 💼 Currently crafting digital experiences at Enown
 
 🌐 Passionate about building web applications that help people and solving complex problems with elegant and fast code.
