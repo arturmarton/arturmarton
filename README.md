@@ -8,7 +8,7 @@
 
 🌐 Passionate about building web applications that help people and solving complex problems with elegant and fast code.
 
-🌱 Always learning and exploring new horizons: Currently learning Rust, AI and Qwik.
+🌱 Always learning and exploring new horizons: Currently learning Rust, AI and Qwik
 
 📫 Let's connect and collaborate on exciting projects! 👇
 
