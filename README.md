@@ -6,7 +6,9 @@
 
 💼 Currently crafting digital experiences at Enown
 
-🌐 Passionate about building web applications that help people and solving complex problems with elegant and fast code.
+🌐 Passionate about building web applications that help people
+
+❤️ Most loved frameworks: Astro and Sveltekit
 
 🌱 Always learning and exploring new horizons: Currently learning Rust, AI and Qwik
 
