@@ -1,6 +1,6 @@
 # 👋 Hello, World! I'm Artur 🚀
 
-👨‍💻 Full-Stack Developer | Software Engineer | AI Enthusiast
+👨‍💻 Full-Stack Developer | Software Engineer | AI Creator
 
 📍 Based in Italy
 
