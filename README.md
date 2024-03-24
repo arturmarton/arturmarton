@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm Alessia 🚀
+# 👋 Hello, World! I'm Artur 🚀
 
 👨‍💻 Full-Stack Developer | Software Engineer | AI Creator
 
