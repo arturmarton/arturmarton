@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm Artur 🚀
+# 👋 Hello, World! I'm Seele 🚀
 
 👨‍💻 Full-Stack Developer | Software Engineer | AI Creator
 
@@ -15,8 +15,6 @@
 🤖 AI: Image, Voice and Text generation
 
 📫 Let's connect and collaborate on exciting projects! 👇
-
-[Linkedin](https://www.linkedin.com/in/artur-marton-mihut-1414731b0)
 
 ###
 
