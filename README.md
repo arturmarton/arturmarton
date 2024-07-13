@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm Seele 🚀
+# 👋 Hello, World! I'm Artur 🚀
 
 👨‍💻 Full-Stack Developer | Software Engineer | AI Creator
 
