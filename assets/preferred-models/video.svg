@@ -1,0 +1,18 @@
+<svg width="600" height="330" viewBox="0 0 600 330" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
+  <title id="title">Video Generation</title>
+  <desc id="description">Preferred model: Minimax H3.</desc>
+  <defs>
+    <clipPath id="clip"><rect width="600" height="330" rx="26"/></clipPath>
+    <linearGradient id="bg" x1="10" y1="0" x2="604" y2="334" gradientUnits="userSpaceOnUse"><stop stop-color="#4E9A61"/><stop offset="1" stop-color="#1E5C42"/></linearGradient>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="600" height="330" fill="url(#bg)"/>
+    <path d="M-20 205C69 145 143 157 220 202C272 232 310 257 373 235C446 210 488 181 614 209V354H-20V205Z" fill="#A7F693" fill-opacity=".29"/>
+    <path d="M-18 254C80 208 154 249 211 280C261 308 314 310 373 274C456 223 512 242 621 285V354H-18V254Z" fill="#C7FFB6" fill-opacity=".31"/>
+    <path d="M-18 300C52 271 123 269 193 315C244 349 306 338 379 299C461 256 526 279 619 316V354H-18V300Z" fill="#E9FFE1" fill-opacity=".23"/>
+    <rect x="453" y="197" width="105" height="72" rx="10" stroke="white" stroke-opacity=".78" stroke-width="5"/>
+    <path d="M494 216L494 250L523 233L494 216Z" fill="white" fill-opacity=".92"/>
+    <text x="38" y="71" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700">Video Generation</text>
+    <text x="40" y="267" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="1.5">MINIMAX H3</text>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg width="600" height="330" viewBox="0 0 600 330" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
+  <title id="title">Image Generation</title>
+  <desc id="description">Preferred models: Ideogram, Krea2, and ZImage.</desc>
+  <defs>
+    <clipPath id="clip"><rect width="600" height="330" rx="26"/></clipPath>
+    <linearGradient id="bg" x1="17" y1="0" x2="590" y2="333" gradientUnits="userSpaceOnUse"><stop stop-color="#9D70E8"/><stop offset="1" stop-color="#573C91"/></linearGradient>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="600" height="330" fill="url(#bg)"/>
+    <path d="M-14 156C84 101 149 122 209 164C261 201 303 220 368 197C451 169 499 188 614 246V355H-14V156Z" fill="#D3B2FF" fill-opacity=".32"/>
+    <path d="M-20 220C67 183 126 211 193 255C254 295 301 303 365 271C444 231 510 245 620 292V355H-20V220Z" fill="#E6D6FF" fill-opacity=".28"/>
+    <path d="M-19 279C69 246 143 274 192 311C241 347 316 341 382 305C458 263 526 276 620 312V355H-19V279Z" fill="#F8F2FF" fill-opacity=".25"/>
+    <rect x="458" y="197" width="95" height="72" rx="9" stroke="white" stroke-opacity=".78" stroke-width="5"/>
+    <circle cx="483" cy="220" r="9" fill="white" fill-opacity=".9"/>
+    <path d="M466 256L494 233L516 250L530 238L546 256" stroke="white" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="38" y="71" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700">Image Generation</text>
+    <text x="40" y="267" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="1.5">IDEOGRAM  ·  KREA2  ·  ZIMAGE</text>
+  </g>
+</svg>

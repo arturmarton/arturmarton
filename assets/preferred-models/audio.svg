@@ -1,0 +1,17 @@
+<svg width="600" height="330" viewBox="0 0 600 330" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
+  <title id="title">Audio Generation</title>
+  <desc id="description">Preferred model: Qwen3 TTS.</desc>
+  <defs>
+    <clipPath id="clip"><rect width="600" height="330" rx="26"/></clipPath>
+    <linearGradient id="bg" x1="5" y1="-3" x2="602" y2="334" gradientUnits="userSpaceOnUse"><stop stop-color="#FF959A"/><stop offset="1" stop-color="#E95C74"/></linearGradient>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="600" height="330" fill="url(#bg)"/>
+    <path d="M-20 167C59 120 127 134 201 178C252 209 309 223 368 198C448 165 515 190 617 225V354H-20V167Z" fill="#FFC4C7" fill-opacity=".33"/>
+    <path d="M-20 234C66 202 142 228 211 273C261 306 314 301 378 271C457 233 516 248 620 294V354H-20V234Z" fill="#FFD7D9" fill-opacity=".30"/>
+    <path d="M-21 286C65 255 139 277 199 314C249 346 326 344 383 306C462 255 520 273 618 315V354H-21V286Z" fill="#FFF0F1" fill-opacity=".24"/>
+    <path d="M462 244V221M479 258V207M496 270V195M513 257V208M530 244V221M547 251V214" stroke="white" stroke-width="7" stroke-linecap="round"/>
+    <text x="38" y="71" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700">Audio Generation</text>
+    <text x="40" y="267" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="1.5">QWEN3 TTS</text>
+  </g>
+</svg>

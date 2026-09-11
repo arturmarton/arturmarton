@@ -1,0 +1,18 @@
+<svg width="600" height="330" viewBox="0 0 600 330" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
+  <title id="title">Small Language Models</title>
+  <desc id="description">Preferred models: Qwen 3.7 and Gemma 4.</desc>
+  <defs>
+    <clipPath id="clip"><rect width="600" height="330" rx="26"/></clipPath>
+    <linearGradient id="bg" x1="31" y1="-1" x2="587" y2="338" gradientUnits="userSpaceOnUse"><stop stop-color="#FF895F"/><stop offset="1" stop-color="#E75745"/></linearGradient>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="600" height="330" fill="url(#bg)"/>
+    <path d="M-28 224C68 155 126 179 194 205C269 234 310 276 394 234C475 194 516 173 631 205V353H-28V224Z" fill="#FFB090" fill-opacity=".30"/>
+    <path d="M-23 269C88 218 150 253 228 286C287 311 364 307 433 253C503 198 560 217 627 242V354H-23V269Z" fill="#FFBEA3" fill-opacity=".43"/>
+    <path d="M-30 306C76 259 130 283 191 309C279 346 352 324 414 286C499 235 558 248 629 290V353H-30V306Z" fill="#FFF0E6" fill-opacity=".20"/>
+    <circle cx="505" cy="237" r="48" stroke="white" stroke-opacity=".66" stroke-width="5"/>
+    <path d="M481 222H529M481 240H529M481 258H516" stroke="white" stroke-width="6" stroke-linecap="round"/>
+    <text x="38" y="71" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="39" font-weight="700">Small Language Models</text>
+    <text x="40" y="267" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="1.5">QWEN 3.7  ·  GEMMA 4</text>
+  </g>
+</svg>
