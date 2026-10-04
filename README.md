@@ -1,12 +1,4 @@
-<!--
-  This is a GitHub profile README starter.
-  Put README.md and the assets/ directory in a public repository named exactly
-  after your GitHub username. GitHub will show it at the top of your profile.
--->
-
-<div align="center">
-  <img src="./assets/hero.svg" alt="Artur, AI Engineer in Italy" width="100%" />
-</div>
+![Artur, AI Engineer in Italy](./assets/hero.svg)
 
 <br />
 
@@ -40,15 +32,25 @@ What I enjoy most is building more involved creative systems where every piece h
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white" alt="LangChain" height="30" />
 </p>
 
-## Selected work
+## Projects
 
-<div align="center">
-  <a href="https://github.com/arturmarton/yapper">
-    <img src="https://raw.githubusercontent.com/arturmarton/yapper/main/assets/banner.png" alt="Yapper. A voice in the room that never runs out of things to say." width="100%" />
-  </a>
-  <br />
-  <sub>A voice in the room that never runs out of things to say.</sub>
-</div>
+### [Yapper](https://github.com/arturmarton/yapper)
+
+A conversational voice companion designed to always have something to say.
+
+[![Yapper banner](./assets/projects/yapper.png)](https://github.com/arturmarton/yapper)
+
+### [Equilibrater](https://equilibrater.ro/)
+
+A showcase website for Equilibrater.
+
+[![Equilibrater banner](./assets/projects/equilibrater.png)](https://equilibrater.ro/)
+
+### [Console Buddy](#)
+
+AI lights technician for concerts
+
+[![ConsoleBuddy banner](./assets/projects/consolebuddy.png)](#)
 
 ---
 
