@@ -12,11 +12,11 @@
 
 ## A little about me
 
-I like getting underneath the chat window. I work with small language models that I run locally, loading weights, writing small harnesses, making the tools, and seeing what happens when the pieces start working together.
+I like getting underneath the chat window and seeing what’s actually going on. I work hands-on with small language models, loading weights, writing little harnesses, building tools, and experimenting with how all the pieces work together.
 
-With image, audio, and video generation, I take the same hands-on approach. I run the models locally and work close to them, shaping the workflow through parameters, tools, and the way each step feeds into the next.
+I take the same approach with image, audio, and video generation, working directly with the models and shaping the process through parameters, tools, and workflows where one step feeds naturally into the next.
 
-I enjoy creating more involved creative flows where every piece has a reason to be there. It is less about getting one good prompt and more about building an AI soul: a system I can tune, give direction, and make feel intentional.
+What I enjoy most is building more involved creative systems where every piece has a purpose. It’s less about finding the perfect prompt and more about building an AI soul.
 
 ## My preferred models
 
