@@ -13,6 +13,6 @@
     <circle cx="505" cy="237" r="48" stroke="white" stroke-opacity=".66" stroke-width="5"/>
     <path d="M481 222H529M481 240H529M481 258H516" stroke="white" stroke-width="6" stroke-linecap="round"/>
     <text x="38" y="71" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="39" font-weight="700">Small Language Models</text>
-    <text x="40" y="267" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="1.5">QWEN 3.7  ·  GEMMA 4</text>
+    <text x="40" y="267" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="1.5">QWEN  ·  GEMMA 4</text>
   </g>
 </svg>
