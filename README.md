@@ -52,6 +52,12 @@ AI lights technician for concerts
 
 [![ConsoleBuddy banner](./assets/projects/consolebuddy.png)](#)
 
+### [Nymph RP](#)
+
+A specialized chat for multi characters roleplay.
+
+[![Nymph RP banner](./assets/projects/nymph-rp.png)](#)
+
 ---
 
 <div align="center">
