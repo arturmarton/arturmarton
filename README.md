@@ -2,14 +2,6 @@
 
 <br />
 
-## A little about me
-
-I like getting underneath the chat window and seeing what’s actually going on. I work hands-on with small language models, loading weights, writing little harnesses, building tools, and experimenting with how all the pieces work together.
-
-I take the same approach with image, audio, and video generation, working directly with the models and shaping the process through parameters, tools, and workflows where one step feeds naturally into the next.
-
-What I enjoy most is building more involved creative systems where every piece has a purpose. It’s less about finding the perfect prompt and more about building an AI soul.
-
 ## My preferred models
 
 <table>
